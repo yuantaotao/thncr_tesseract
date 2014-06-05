@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/subversion/!svn/ver/5326/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract
+END
+test.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/subversion/!svn/ver/4710/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/test.png
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/subversion/!svn/ver/3832/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/errors.py
+END
+recog_tesseract.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/subversion/!svn/ver/3891/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/recog_tesseract.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/subversion/!svn/ver/3832/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/util.py
+END
+dod.traineddata
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/subversion/!svn/ver/3891/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/dod.traineddata
+END
+pytesser.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/subversion/!svn/ver/3846/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/pytesser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/subversion/!svn/ver/3826/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/subversion/!svn/ver/4710/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/test.py
+END
+my_tesseract.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/subversion/!svn/ver/5326/projects/dang_spider/trunk/source/ddspider/downloadinfo/recog_tesseract/my_tesseract.py
+END
